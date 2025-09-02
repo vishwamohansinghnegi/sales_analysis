@@ -1,0 +1,7 @@
+numpy
+pandas
+pymysql
+sqlalchemy
+psycopg2
+matplotlib
+seaborn
